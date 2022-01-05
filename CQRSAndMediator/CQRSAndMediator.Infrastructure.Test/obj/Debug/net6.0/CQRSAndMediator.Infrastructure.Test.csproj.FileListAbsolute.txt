@@ -1,0 +1,15 @@
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.exe
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.deps.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.runtimeconfig.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\bin\Debug\net6.0\ref\CQRSAndMediator.Infrastructure.Test.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.csproj.AssemblyReference.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.AssemblyInfoInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.AssemblyInfo.cs
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.csproj.CoreCompileInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\ref\CQRSAndMediator.Infrastructure.Test.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure.Test\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.Test.genruntimeconfig.cache

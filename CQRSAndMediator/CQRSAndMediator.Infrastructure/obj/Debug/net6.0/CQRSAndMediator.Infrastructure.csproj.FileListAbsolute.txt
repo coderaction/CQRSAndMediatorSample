@@ -1,0 +1,15 @@
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.exe
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.deps.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.runtimeconfig.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\bin\Debug\net6.0\ref\CQRSAndMediator.Infrastructure.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\bin\Debug\net6.0\CQRSAndMediator.Infrastructure.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.csproj.AssemblyReference.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.AssemblyInfoInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.AssemblyInfo.cs
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\ref\CQRSAndMediator.Infrastructure.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Infrastructure\obj\Debug\net6.0\CQRSAndMediator.Infrastructure.genruntimeconfig.cache

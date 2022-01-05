@@ -1,0 +1,5 @@
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\netcoreapp3.1\CQRSAndMediator.Api.csproj.AssemblyReference.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\netcoreapp3.1\CQRSAndMediator.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\netcoreapp3.1\CQRSAndMediator.Api.AssemblyInfoInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\netcoreapp3.1\CQRSAndMediator.Api.AssemblyInfo.cs
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\netcoreapp3.1\CQRSAndMediator.Api.csproj.CoreCompileInputs.cache

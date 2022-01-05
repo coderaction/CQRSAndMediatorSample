@@ -1,0 +1,15 @@
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\bin\Debug\net6.0\CQRSAndMediator.Api.exe
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\bin\Debug\net6.0\CQRSAndMediator.Api.deps.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\bin\Debug\net6.0\CQRSAndMediator.Api.runtimeconfig.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\bin\Debug\net6.0\CQRSAndMediator.Api.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\bin\Debug\net6.0\ref\CQRSAndMediator.Api.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\bin\Debug\net6.0\CQRSAndMediator.Api.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.csproj.AssemblyReference.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.AssemblyInfoInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.AssemblyInfo.cs
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.csproj.CoreCompileInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\ref\CQRSAndMediator.Api.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Api\obj\Debug\net6.0\CQRSAndMediator.Api.genruntimeconfig.cache

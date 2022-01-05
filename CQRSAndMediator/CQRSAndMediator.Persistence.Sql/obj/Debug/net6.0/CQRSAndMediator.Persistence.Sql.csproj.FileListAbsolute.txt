@@ -1,0 +1,15 @@
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\bin\Debug\net6.0\CQRSAndMediator.Persistence.Sql.exe
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\bin\Debug\net6.0\CQRSAndMediator.Persistence.Sql.deps.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\bin\Debug\net6.0\CQRSAndMediator.Persistence.Sql.runtimeconfig.json
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\bin\Debug\net6.0\CQRSAndMediator.Persistence.Sql.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\bin\Debug\net6.0\ref\CQRSAndMediator.Persistence.Sql.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\bin\Debug\net6.0\CQRSAndMediator.Persistence.Sql.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.csproj.AssemblyReference.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.AssemblyInfoInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.AssemblyInfo.cs
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.csproj.CoreCompileInputs.cache
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\ref\CQRSAndMediator.Persistence.Sql.dll
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.pdb
+C:\git\CQRSAndMediatorSample\CQRSAndMediator\CQRSAndMediator.Persistence.Sql\obj\Debug\net6.0\CQRSAndMediator.Persistence.Sql.genruntimeconfig.cache
